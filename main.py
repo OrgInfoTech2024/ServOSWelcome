@@ -470,7 +470,7 @@ class MainWindow(QWidget):
     
     def exit(self):
         home_dir = os.path.expanduser("~")
-        autostart_file_path = os.path.join(home_dir, ".config/autostart/python.desktop")
+        autostart_file_path = os.path.join(home_dir, ".config/autostart/servoswelcome.desktop")
         if os.path.exists(autostart_file_path):
             os.remove(autostart_file_path)
         self.close()
