@@ -15,14 +15,6 @@ class MainWindow(QWidget):
         self.setWindowTitle("ServOS Welcome")
         self.setWindowIcon(QIcon(os.path.abspath("/usr/share/ServOSWelcome/images/icon.png")))
         
-        # CHECKING LIVE CD
-        username = os.getlogin()
-        livecdusername = ""
-        with open(os.path.abspath("/usr/share/ServOSWelcome/datas/livecdusername.txt"), 'r') as file:
-            livecdusername = file.read()
-        if username == livecdusername:
-            self.close
-
         # SOUND
         self.media_player = QMediaPlayer()
         sound_path = os.path.abspath("/usr/share/ServOSWelcome/sounds/title.mp3")
