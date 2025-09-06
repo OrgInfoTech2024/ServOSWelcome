@@ -21,7 +21,9 @@ langDict = {
         "Remove": "إزالة",
         "Your community": "مجتمعك",
         "Time Zone":"المنطقة الزمنية",
-        "Please to select your timezone:":"يرجى اختيار منطقتك الزمنية:"
+        "Please to select your timezone:":"يرجى اختيار منطقتك الزمنية:",
+        "Choosing an User Icon":"اختيار أيقونة المستخدم",
+        "Please to choose your User Icon:":"يرجى اختيار أيقونة المستخدم:"
     },
     "hy_AM": {
         "Welcome": "Բարի գալուստ",
@@ -45,7 +47,9 @@ langDict = {
         "Remove": "Հեռացնել",
         "Your community": "Ձեր համայնքը",
         "Time Zone":"Ժամային գոտի",
-        "Please to select your timezone:":"Խնդրում ենք ընտրել ձեր ժամային գոտին:"
+        "Please to select your timezone:":"Խնդրում ենք ընտրել ձեր ժամային գոտին:",
+        "Choosing an User Icon":"Օգտվողի պատկերակի ընտրություն",
+        "Please to choose your User Icon:":"Խնդրում ենք ընտրել ձեր օգտվողի պատկերակը:"
     },
     "az_AZ": {
         "Welcome": "Xoş gəldiniz",
@@ -69,7 +73,9 @@ langDict = {
         "Remove": "Sil",
         "Your community": "Sizin icma",
         "Time Zone":"Saat qurşağı",
-        "Please to select your timezone:":"Zəhmət olmasa saat qurşağınızı seçin:"
+        "Please to select your timezone:":"Zəhmət olmasa saat qurşağınızı seçin:",
+        "Choosing an User Icon":"İstifadəçi ikonunu seçmək",
+        "Please to choose your User Icon:":"Zəhmət olmasa istifadəçi ikonunu seçin:"
     },
     "bg_BG": {
         "Welcome": "Добре дошли",
@@ -93,7 +99,9 @@ langDict = {
         "Remove": "Премахни",
         "Your community": "Вашата общност",
         "Time Zone":"Часова зона",
-        "Please to select your timezone:":"Моля, изберете вашата часова зона:"
+        "Please to select your timezone:":"Моля, изберете вашата часова зона:",
+        "Choosing an User Icon":"Избор на икона на потребителя",
+        "Please to choose your User Icon:":"Моля, изберете своята икона на потребителя:"
     },
     "zh_CN": {
         "Welcome": "欢迎",
@@ -117,7 +125,9 @@ langDict = {
         "Remove": "移除",
         "Your community": "您的社区",
         "Time Zone":"时区",
-        "Please to select your timezone:":"请选择您的时区:"
+        "Please to select your timezone:":"请选择您的时区:",
+        "Choosing an User Icon":"选择用户图标",
+        "Please to choose your User Icon:":"请选择您的用户图标："
     },
     "zh_TW": {
         "Welcome": "歡迎",
@@ -141,7 +151,9 @@ langDict = {
         "Remove": "移除",
         "Your community": "您的社區",
         "Time Zone":"時區",
-        "Please to select your timezone:":"請選擇您的時區:"
+        "Please to select your timezone:":"請選擇您的時區:",
+        "Choosing an User Icon":"選擇使用者圖示",
+        "Please to choose your User Icon:":"請選擇您的使用者圖示："
     },
     "hr_HR": {
         "Welcome": "Dobrodošli",
@@ -165,7 +177,9 @@ langDict = {
         "Remove": "Ukloni",
         "Your community": "Vaša zajednica",
         "Time Zone":"Vremenska zona",
-        "Please to select your timezone:":"Molimo odaberite svoju vremensku zonu:"
+        "Please to select your timezone:":"Molimo odaberite svoju vremensku zonu:",
+        "Choosing an User Icon":"Odabir korisničke ikone",
+        "Please to choose your User Icon:":"Molimo odaberite svoju korisničku ikonu:"
     },
     "cs_CZ": {
         "Welcome": "Vítejte",
@@ -189,7 +203,9 @@ langDict = {
         "Remove": "Odstranit",
         "Your community": "Vaše komunita",
         "Time Zone":"Časové pásmo",
-        "Please to select your timezone:":"Vyberte prosím své časové pásmo:"
+        "Please to select your timezone:":"Vyberte prosím své časové pásmo:",
+        "Choosing an User Icon":"Výběr uživatelské ikony",
+        "Please to choose your User Icon:":"Vyberte prosím svou uživatelskou ikonu:"
     },
     "da_DK": {
         "Welcome": "Velkommen",
@@ -213,7 +229,9 @@ langDict = {
         "Remove": "Fjern",
         "Your community": "Dit fællesskab",
         "Time Zone":"Tidszone",
-        "Please to select your timezone:":"Vælg venligst din tidszone:"
+        "Please to select your timezone:":"Vælg venligst din tidszone:",
+        "Choosing an User Icon":"Valg af brugerikon",
+        "Please to choose your User Icon:":"Vælg venligst dit brugerikon:"
     },
     "nl_NL": {
         "Welcome": "Welkom",
@@ -237,7 +255,9 @@ langDict = {
         "Remove": "Verwijderen",
         "Your community": "Uw gemeenschap",
         "Time Zone":"Tijdzone",
-        "Please to select your timezone:":"Selecteer uw tijdzone:"
+        "Please to select your timezone:":"Selecteer uw tijdzone:",
+        "Choosing an User Icon":"Een gebruikerspictogram kiezen",
+        "Please to choose your User Icon:":"Kies uw gebruikerspictogram:"
     },
     "en_US":{
         "Welcome":"Welcome",
@@ -263,7 +283,9 @@ langDict = {
         "Remove":"Remove",
         "Your community":"Your community",
         "Time Zone":"Time Zone",
-        "Please to select your timezone:":"Please to select your timezone:"
+        "Please to select your timezone:":"Please to select your timezone:",
+        "Choosing an User Icon":"Choosing an User Icon",
+        "Please to choose your User Icon:":"Please to choose your User Icon:"
     },
     "en_GB":{
         "Welcome":"Welcome",
@@ -289,7 +311,9 @@ langDict = {
         "Remove":"Remove",
         "Your community":"Your community",
         "Time Zone":"Time Zone",
-        "Please to select your timezone:":"Please to select your timezone:"
+        "Please to select your timezone:":"Please to select your timezone:",
+        "Choosing an User Icon":"Choosing a User Icon",
+        "Please to choose your User Icon:":"Please choose your User Icon:"
     },
     "en_CA":{
         "Welcome":"Welcome",
@@ -315,7 +339,9 @@ langDict = {
         "Remove":"Remove",
         "Your community":"Your community",
         "Time Zone":"Time Zone",
-        "Please to select your timezone:":"Please to select your timezone:"
+        "Please to select your timezone:":"Please to select your timezone:",
+        "Choosing an User Icon":"Choosing a User Icon",
+        "Please to choose your User Icon:":"Please choose your User Icon:"
     },
     "en_AU":{
         "Welcome":"Welcome",
@@ -341,7 +367,9 @@ langDict = {
         "Remove":"Remove",
         "Your community":"Your community",
         "Time Zone":"Time Zone",
-        "Please to select your timezone:":"Please to select your timezone:"
+        "Please to select your timezone:":"Please to select your timezone:",
+        "Choosing an User Icon":"Choosing a User Icon",
+        "Please to choose your User Icon:":"Please choose your User Icon:"
     },
     "et_EE": {
         "Welcome": "Tere tulemast",
@@ -365,7 +393,9 @@ langDict = {
         "Remove": "Eemalda",
         "Your community": "Teie kogukond",
         "Time Zone":"Ajavöönd",
-        "Please to select your timezone:":"Palun valige oma ajavöönd:"
+        "Please to select your timezone:":"Palun valige oma ajavöönd:",
+        "Choosing an User Icon":"Kasutaja ikooni valimine",
+        "Please to choose your User Icon:":"Palun valige oma kasutaja ikoon:"
     },
     "fi_FI": {
         "Welcome": "Tervetuloa",
@@ -389,7 +419,9 @@ langDict = {
         "Remove": "Poista",
         "Your community": "Yhteisösi",
         "Time Zone":"Aikavyöhyke",
-        "Please to select your timezone:":"Valitse aikavyöhyke:"
+        "Please to select your timezone:":"Valitse aikavyöhyke:",
+        "Choosing an User Icon":"Käyttäjäkuvakkeen valinta",
+        "Please to choose your User Icon:":"Valitse käyttäjäkuvake:"
     },
     "fr_FR": {
         "Welcome": "Bienvenue",
@@ -413,7 +445,9 @@ langDict = {
         "Remove": "Supprimer",
         "Your community": "Votre communauté",
         "Time Zone":"Fuseau horaire",
-        "Please to select your timezone:":"Veuillez sélectionner votre fuseau horaire:"
+        "Please to select your timezone:":"Veuillez sélectionner votre fuseau horaire:",
+        "Choosing an User Icon":"Choisir une icône d'utilisateur",
+        "Please to choose your User Icon:":"Veuillez choisir votre icône d'utilisateur:"
     },
     "fr_CA": {
         "Welcome": "Bienvenue",
@@ -437,7 +471,9 @@ langDict = {
         "Remove": "Supprimer",
         "Your community": "Votre communauté",
         "Time Zone":"Fuseau horaire",
-        "Please to select your timezone:":"Veuillez choisir votre fuseau horaire:"
+        "Please to select your timezone:":"Veuillez choisir votre fuseau horaire:",
+        "Choosing an User Icon":"Choisir une icône d'utilisateur",
+        "Please to choose your User Icon:":"Veuillez choisir votre icône d'utilisateur:"
     },
     "ka_GE": {
         "Welcome": "კეთილი იყოს თქვენი მობრძანება",
@@ -461,7 +497,9 @@ langDict = {
         "Remove": "ამოშლა",
         "Your community": "თქვენი საზოგადოება",
         "Time Zone":"დროის სარტყელი",
-        "Please to select your timezone:":"გთხოვთ, აირჩიოთ თქვენი დროის სარტყელი:"
+        "Please to select your timezone:":"გთხოვთ, აირჩიოთ თქვენი დროის სარტყელი:",
+        "Choosing an User Icon":"მომხმარებლის აიკონის არჩევა",
+        "Please to choose your User Icon:":"გთხოვთ, აირჩიოთ თქვენი მომხმარებლის აიკონი:"
     },
     "de_DE": {
         "Welcome": "Willkommen",
@@ -485,7 +523,9 @@ langDict = {
         "Remove": "Entfernen",
         "Your community": "Ihre Gemeinschaft",
         "Time Zone":"Zeitzone",
-        "Please to select your timezone:":"Bitte wählen Sie Ihre Zeitzone aus:"
+        "Please to select your timezone:":"Bitte wählen Sie Ihre Zeitzone aus:",
+        "Choosing an User Icon":"Benutzersymbol auswählen",
+        "Please to choose your User Icon:":"Bitte wählen Sie Ihr Benutzersymbol:"
     },
     "el_GR": {
         "Welcome": "Καλώς ήρθατε",
@@ -509,7 +549,9 @@ langDict = {
         "Remove": "Αφαίρεση",
         "Your community": "Η κοινότητά σας",
         "Time Zone":"Ζώνη ώρας",
-        "Please to select your timezone:":"Παρακαλώ επιλέξτε τη ζώνη ώρας σας:"
+        "Please to select your timezone:":"Παρακαλώ επιλέξτε τη ζώνη ώρας σας:",
+        "Choosing an User Icon":"Επιλογή εικονιδίου χρήστη",
+        "Please to choose your User Icon:":"Παρακαλώ επιλέξτε το εικονίδιο χρήστη σας:"
     },
     "he_IL": {
         "Welcome": "ברוך הבא",
@@ -533,7 +575,9 @@ langDict = {
         "Remove": "הסר",
         "Your community": "הקהילה שלך",
         "Time Zone":"אזור זמן",
-        "Please to select your timezone:":"אנא בחר את אזור הזמן שלך:"
+        "Please to select your timezone:":"אנא בחר את אזור הזמן שלך:",
+        "Choosing an User Icon":"בחירת סמל משתמש",
+        "Please to choose your User Icon:":"אנא בחר את סמל המשתמש שלך:"
     },
     "hi_IN": {
         "Welcome": "स्वागत है",
@@ -557,7 +601,9 @@ langDict = {
         "Remove": "हटाएं",
         "Your community": "आपका समुदाय",
         "Time Zone":"समय क्षेत्र",
-        "Please to select your timezone:":"कृपया अपना समय क्षेत्र चुनें:"
+        "Please to select your timezone:":"कृपया अपना समय क्षेत्र चुनें:",
+        "Choosing an User Icon":"उपयोगकर्ता आइकन चुनना",
+        "Please to choose your User Icon:":"कृपया अपना उपयोगकर्ता आइकन चुनें:"
     },
     "hu_HU": {
         "Welcome": "Üdvözöljük",
@@ -581,7 +627,9 @@ langDict = {
         "Remove": "Eltávolít",
         "Your community": "Az Ön közössége",
         "Time Zone":"Időzóna",
-        "Please to select your timezone:":"Kérjük, válassza ki az időzónáját:"
+        "Please to select your timezone:":"Kérjük, válassza ki az időzónáját:",
+        "Choosing an User Icon":"Felhasználói ikon kiválasztása",
+        "Please to choose your User Icon:":"Kérjük, válassza ki a felhasználói ikonját:"
     },
     "it_IT": {
         "Welcome": "Benvenuto",
@@ -605,7 +653,9 @@ langDict = {
         "Remove": "Rimuovi",
         "Your community": "La tua comunità",
         "Time Zone":"Fuso orario",
-        "Please to select your timezone:":"Seleziona il tuo fuso orario:"
+        "Please to select your timezone:":"Seleziona il tuo fuso orario:",
+        "Choosing an User Icon":"Scelta di un'icona utente",
+        "Please to choose your User Icon:":"Per favore, scegli la tua icona utente:"
     },
     "ja_JP": {
         "Welcome": "ようこそ",
@@ -629,7 +679,9 @@ langDict = {
         "Remove": "削除",
         "Your community": "あなたのコミュニティ",
         "Time Zone":"タイムゾーン",
-        "Please to select your timezone:":"タイムゾーンを選択してください:"
+        "Please to select your timezone:":"タイムゾーンを選択してください:",
+        "Choosing an User Icon":"ユーザーアイコンの選択",
+        "Please to choose your User Icon:":"ユーザーアイコンを選択してください："
     },
     "kk_KZ": {
         "Welcome": "Қош келдіңіз",
@@ -653,7 +705,9 @@ langDict = {
         "Remove": "Жою",
         "Your community": "Сіздің қауымдастығыңыз",
         "Time Zone":"Уақыт белдеуі",
-        "Please to select your timezone:":"Өз уақыт белдеуіңізді таңдаңыз:"
+        "Please to select your timezone:":"Өз уақыт белдеуіңізді таңдаңыз:",
+        "Choosing an User Icon":"Пайдаланушы белгішесін таңдау",
+        "Please to choose your User Icon:":"Пайдаланушы белгішесін таңдаңыз:"
     },
     "ko_KR": {
         "Welcome": "환영합니다",
@@ -677,7 +731,9 @@ langDict = {
         "Remove": "제거",
         "Your community": "당신의 커뮤니티",
         "Time Zone":"시간대",
-        "Please to select your timezone:":"시간대를 선택하세요:"
+        "Please to select your timezone:":"시간대를 선택하세요:",
+        "Choosing an User Icon":"사용자 아이콘 선택",
+        "Please to choose your User Icon:":"사용자 아이콘을 선택하십시오:"
     },
     "ky_KG": {
         "Welcome": "Кош келдиңиз",
@@ -701,7 +757,9 @@ langDict = {
         "Remove": "Алуу",
         "Your community": "Сиздин жамаатыңыз",
         "Time Zone":"Саат алкагы",
-        "Please to select your timezone:":"Өзүңүздүн саат алкагыңызды тандаңыз:"
+        "Please to select your timezone:":"Өзүңүздүн саат алкагыңызды тандаңыз:",
+        "Choosing an User Icon":"Колдонуучунун белгисин тандоо",
+        "Please to choose your User Icon:":"Колдонуучунун белгисин тандаңыз:"
     },
     "lv_LV": {
         "Welcome": "Laipni lūdzam",
@@ -725,7 +783,9 @@ langDict = {
         "Remove": "Noņemt",
         "Your community": "Jūsu kopiena",
         "Time Zone":"Laika zona",
-        "Please to select your timezone:":"Lūdzu, izvēlieties savu laika joslu:"
+        "Please to select your timezone:":"Lūdzu, izvēlieties savu laika joslu:",
+        "Choosing an User Icon":"Lietotāja ikonas izvēle",
+        "Please to choose your User Icon:":"Lūdzu, izvēlieties savu lietotāja ikonu:"
     },
     "lt_LT": {
         "Welcome": "Sveiki atvykę",
@@ -749,7 +809,9 @@ langDict = {
         "Remove": "Pašalinti",
         "Your community": "Jūsų bendruomenė",
         "Time Zone":"Laiko juosta",
-        "Please to select your timezone:":"Prašome pasirinkti savo laiko juostą:"
+        "Please to select your timezone:":"Prašome pasirinkti savo laiko juostą:",
+        "Choosing an User Icon":"Vartotojo piktogramos pasirinkimas",
+        "Please to choose your User Icon:":"Prašome pasirinkti savo vartotojo piktogramą:"
     },
     "mn_MN": {
         "Welcome": "Тавтай морил",
@@ -773,7 +835,9 @@ langDict = {
         "Remove": "Хасах",
         "Your community": "Таны байгууллага",
         "Time Zone":"Цагийн бүс",
-        "Please to select your timezone:":"Өөрийн цагийн бүсээ сонгоно уу:"
+        "Please to select your timezone:":"Өөрийн цагийн бүсээ сонгоно уу:",
+        "Choosing an User Icon":"Хэрэглэгчийн дүрс сонгох",
+        "Please to choose your User Icon:":"Өөрийн хэрэглэгчийн дүрсээ сонгоно уу:"
     },
     "fa_IR": {
         "Welcome": "خوش آمدید",
@@ -797,7 +861,9 @@ langDict = {
         "Remove": "حذف",
         "Your community": "جامعه شما",
         "Time Zone":"منطقه زمانی",
-        "Please to select your timezone:":"لطفاً منطقه زمانی خود را انتخاب کنید:"
+        "Please to select your timezone:":"لطفاً منطقه زمانی خود را انتخاب کنید:",
+        "Choosing an User Icon":"انتخاب نماد کاربر",
+        "Please to choose your User Icon:":"لطفاً نماد کاربر خود را انتخاب کنید:"
     },
     "pl_PL": {
         "Welcome": "Witaj",
@@ -821,7 +887,9 @@ langDict = {
         "Remove": "Usuń",
         "Your community": "Twoja społeczność",
         "Time Zone":"Strefa czasowa",
-        "Please to select your timezone:":"Wybierz swoją strefę czasową:"
+        "Please to select your timezone:":"Wybierz swoją strefę czasową:",
+        "Choosing an User Icon":"Wybór ikony użytkownika",
+        "Please to choose your User Icon:":"Proszę wybrać swoją ikonę użytkownika:"
     },
     "pt_PT": {
         "Welcome": "Bem-vindo",
@@ -845,7 +913,9 @@ langDict = {
         "Remove": "Remover",
         "Your community": "Sua comunidade",
         "Time Zone":"Fuso horário",
-        "Please to select your timezone:":"Por favor, selecione seu fuso horário:"
+        "Please to select your timezone:":"Por favor, selecione seu fuso horário:",
+        "Choosing an User Icon":"Escolha de um ícone de utilizador",
+        "Please to choose your User Icon:":"Por favor, escolha o seu ícone de utilizador:"
     },
     "pt_BR": {
         "Welcome": "Bem-vindo",
@@ -869,7 +939,9 @@ langDict = {
         "Remove": "Remover",
         "Your community": "Sua comunidade",
         "Time Zone":"Fuso horário",
-        "Please to select your timezone:":"Por favor, selecione seu fuso horário:"
+        "Please to select your timezone:":"Por favor, selecione seu fuso horário:",
+        "Choosing an User Icon":"Escolha de um ícone de usuário",
+        "Please to choose your User Icon:":"Por favor, escolha o seu ícone de usuário:"
     },
     "ro_RO": {
         "Welcome": "Bine ai venit",
@@ -893,7 +965,9 @@ langDict = {
         "Remove": "Eliminați",
         "Your community": "Comunitatea ta",
         "Time Zone":"Fus orar",
-        "Please to select your timezone:":"Vă rugăm să selectați fusul orar:"
+        "Please to select your timezone:":"Vă rugăm să selectați fusul orar:",
+        "Choosing an User Icon":"Alegerea unei pictograme de utilizator",
+        "Please to choose your User Icon:":"Vă rugăm să alegeți pictograma utilizatorului:"
     },
     "ru_RU": {
         "Welcome": "Добро пожаловать",
@@ -917,7 +991,9 @@ langDict = {
         "Remove": "Удалить",
         "Your community": "Ваш населённый пункт",
         "Time Zone":"Часовой пояс",
-        "Please to select your timezone:":"Выберите ваш часовой пояс:"
+        "Please to select your timezone:":"Выберите ваш часовой пояс:",
+        "Choosing an User Icon":"Выбор значка пользователя",
+        "Please to choose your User Icon:":"Пожалуйста, выберите значок пользователя:"
     },
     "sr_RS": {
         "Welcome": "Добродошли",
@@ -941,7 +1017,9 @@ langDict = {
         "Remove": "Уклони",
         "Your community": "Ваша заједница",
         "Time Zone":"Временска зона",
-        "Please to select your timezone:":"Молимо одаберите вашу временску зону:"
+        "Please to select your timezone:":"Молимо одаберите вашу временску зону:",
+        "Choosing an User Icon":"Избор иконе корисника",
+        "Please to choose your User Icon:":"Молимо вас да изаберете икону корисника:"
     },
     "sr_RS_latin": {
         "Welcome": "Dobrodošli",
@@ -965,7 +1043,9 @@ langDict = {
         "Remove": "Ukloni",
         "Your community": "Vaša zajednica",
         "Time Zone":"Vremenska zona",
-        "Please to select your timezone:":"Molimo odaberite vašu vremensku zonu:"
+        "Please to select your timezone:":"Molimo odaberite vašu vremensku zonu:",
+        "Choosing an User Icon":"Izbor ikone korisnika",
+        "Please to choose your User Icon:":"Molimo vas da izaberete ikonu korisnika:"
     },
     "sk_SK": {
         "Welcome": "Vitajte",
@@ -989,7 +1069,9 @@ langDict = {
         "Remove": "Odstrániť",
         "Your community": "Vaša komunita",
         "Time Zone":"Časové pásmo",
-        "Please to select your timezone:":"Vyberte si svoje časové pásmo:"
+        "Please to select your timezone:":"Vyberte si svoje časové pásmo:",
+        "Choosing an User Icon":"Výber ikony používateľa",
+        "Please to choose your User Icon:":"Prosím, vyberte si ikonu používateľa:"
     },
     "sl_SI": {
         "Welcome": "Dobrodošli",
@@ -1013,7 +1095,9 @@ langDict = {
         "Remove": "Odstrani",
         "Your community": "Vaša skupnost",
         "Time Zone":"Časovni pas",
-        "Please to select your timezone:":"Izberite svoj časovni pas:"
+        "Please to select your timezone:":"Izberite svoj časovni pas:",
+        "Choosing an User Icon":"Izbira uporabniške ikone",
+        "Please to choose your User Icon:":"Prosimo, izberite svojo uporabniško ikono:"
     },
     "es_ES": {
         "Welcome": "Bienvenido",
@@ -1037,7 +1121,9 @@ langDict = {
         "Remove": "Eliminar",
         "Your community": "Tu comunidad",
         "Time Zone":"Zona horaria",
-        "Please to select your timezone:":"Por favor, seleccione su zona horaria:"
+        "Please to select your timezone:":"Por favor, seleccione su zona horaria:",
+        "Choosing an User Icon":"Elegir un icono de usuario",
+        "Please to choose your User Icon:":"Por favor, elija su icono de usuario:"
     },
     "sv_SE": {
         "Welcome": "Välkommen",
@@ -1061,7 +1147,9 @@ langDict = {
         "Remove": "Ta bort",
         "Your community": "Din gemenskap",
         "Time Zone":"Tidszon",
-        "Please to select your timezone:":"Välj din tidszon:"
+        "Please to select your timezone:":"Välj din tidszon:",
+        "Choosing an User Icon":"Välj en användarikon",
+        "Please to choose your User Icon:":"Vänligen välj din användarikon:"
     },
     "tt_RU":{
         "Welcome":"Рәхим итегез",
@@ -1087,7 +1175,9 @@ langDict = {
         "Remove":"Бетерү",
         "Your community":"Сезнең җәмгыять",
         "Time Zone":"Вакыт зонасы",
-        "Please to select your timezone:":"Зинһар, үзегезнең вакыт зонасын сайлагыз:"
+        "Please to select your timezone:":"Зинһар, үзегезнең вакыт зонасын сайлагыз:",
+        "Choosing an User Icon":"Кулланучы билгесен сайлау",
+        "Please to choose your User Icon:":"Зинһар, кулланучы билгесен сайлагыз:"
     },
     "th_TH":{
         "Welcome":"ยินดีต้อนรับ",
@@ -1113,7 +1203,9 @@ langDict = {
         "Remove":"ลบ",
         "Your community":"ชุมชนของคุณ",
         "Time Zone":"เขตเวลา",
-        "Please to select your timezone:":"กรุณาเลือกเขตเวลาของคุณ:"
+        "Please to select your timezone:":"กรุณาเลือกเขตเวลาของคุณ:",
+        "Choosing an User Icon":"การเลือกไอคอนผู้ใช้",
+        "Please to choose your User Icon:":"โปรดเลือกไอคอนผู้ใช้ของคุณ:"
     },
     "bo_CN": {
         "Welcome": "བཀའ་འགྱུར",
@@ -1139,7 +1231,9 @@ langDict = {
         "Remove": "ཆ་སྣོད།",
         "Your community": "ཁྱེད་ཀྱིས་གནས་ཚད།",
         "Time Zone":"དུས་ཚད་སྒྲིག་ཡུལ།",
-        "Please to select your timezone:":"ཁྱེད་ཀྱི་དུས་ཚད་སྒྲིག་ཡུལ་བདག་གཟིགས།:"
+        "Please to select your timezone:":"ཁྱེད་ཀྱི་དུས་ཚད་སྒྲིག་ཡུལ་བདག་གཟིགས།:",
+        "Choosing an User Icon":"བཀོད་པའི་སྤྱོད་མཁན་རིས",
+        "Please to choose your User Icon:":"ཁྱེད་ཀྱི་སྤྱོད་མཁན་རིས་གདམ་རོགས་གནང་།:"
     },
     "tr_TR":{
         "Welcome":"Hoş geldiniz",
@@ -1165,7 +1259,9 @@ langDict = {
         "Remove":"Kaldır",
         "Your community":"Topluluğunuz",
         "Time Zone":"Saat Dilimi",
-        "Please to select your timezone:":"Lütfen saat diliminizi seçin:"
+        "Please to select your timezone:":"Lütfen saat diliminizi seçin:",
+        "Choosing an User Icon":"Kullanıcı simgesini seçme",
+        "Please to choose your User Icon:":"Lütfen kullanıcı simgenizi seçin:"
     },
     "tk_TM":{
         "Welcome":"Hoş geldiniz",
@@ -1191,7 +1287,9 @@ langDict = {
         "Remove":"Aýyryň",
         "Your community":"Siziň jamgyr bolanyňyz",
         "Time Zone":"Sagat guşagy",
-        "Please to select your timezone:":"Sagat guşagyňyzy saýlaň:"
+        "Please to select your timezone:":"Sagat guşagyňyzy saýlaň:",
+        "Choosing an User Icon":"Ulanyjy nyşanyny saýlamak",
+        "Please to choose your User Icon:":"Öz ulanyjy nyşanyňyzy saýlaň:"
     },
     "uk_UA":{
         "Welcome":"Ласкаво просимо",
@@ -1217,7 +1315,9 @@ langDict = {
         "Remove":"Видалити",
         "Your community":"Ваша місцева громада",
         "Time Zone":"Часовий пояс",
-        "Please to select your timezone:":"Оберіть ваш часовий пояс:"
+        "Please to select your timezone:":"Оберіть ваш часовий пояс:",
+        "Choosing an User Icon":"Вибір значка користувача",
+        "Please to choose your User Icon:":"Будь ласка, виберіть свій значок користувача:"
     },
     "ur_PK":{
         "Welcome":"خوش آمدید",
@@ -1243,7 +1343,9 @@ langDict = {
         "Remove":"ہٹائیں",
         "Your community":"آپ کی کمیونٹی",
         "Time Zone":"ٹائم زون",
-        "Please to select your timezone:":"براہ کرم اپنا ٹائم زون منتخب کریں:"
+        "Please to select your timezone:":"براہ کرم اپنا ٹائم زون منتخب کریں:",
+        "Choosing an User Icon":"صارف کا آئیکن منتخب کریں",
+        "Please to choose your User Icon:":"براہ کرم اپنا صارف آئیکن منتخب کریں:"
     },
     "ug_CN":{
         "Welcome":"خۇش كەلدىڭىز",
@@ -1269,7 +1371,9 @@ langDict = {
         "Remove":"چىقىرىۋەت",
         "Your community":"سىزنىڭ كومۇنىتېتىڭىز",
         "Time Zone":"ۋاقىت رايونى",
-        "Please to select your timezone:":"سۆزلىتىش ۋاقتى رايونىڭىزنى تاللاڭ:"
+        "Please to select your timezone:":"سۆزلىتىش ۋاقتى رايونىڭىزنى تاللاڭ:",
+        "Choosing an User Icon":"ئىشلەتكۈچى سىنبەلگىسىنى تاللاش",
+        "Please to choose your User Icon:":"ئىشلەتكۈچى سىنبەلگىڭىزنى تاللاڭ:"
     },
     "uz_UZ":{
         "Welcome":"Xush kelibsiz",
@@ -1295,7 +1399,9 @@ langDict = {
         "Remove":"Olib tashlash",
         "Your community":"Sizning jamiyat",
         "Time Zone":"Vaqt zonasi",
-        "Please to select your timezone:":"Iltimos, vaqt zonasini tanlang:"
+        "Please to select your timezone:":"Iltimos, vaqt zonasini tanlang:",
+        "Choosing an User Icon":"Foydalanuvchi belgisini tanlash",
+        "Please to choose your User Icon:":"Iltimos, foydalanuvchi belgisini tanlang:"
     },
     "vi_VN":{
         "Welcome":"Chào mừng",
@@ -1321,6 +1427,8 @@ langDict = {
         "Remove":"Xóa",
         "Your community":"Cộng đồng của bạn",
         "Time Zone":"Múi giờ",
-        "Please to select your timezone:":"Vui lòng chọn múi giờ của bạn:"
+        "Please to select your timezone:":"Vui lòng chọn múi giờ của bạn:",
+        "Choosing an User Icon":"Chọn biểu tượng người dùng",
+        "Please to choose your User Icon:":"Vui lòng chọn biểu tượng người dùng của bạn:"
     }
 }
