@@ -15,6 +15,13 @@ class MainWindow(QWidget):
         self.setWindowTitle("ServOS Welcome")
         self.setWindowIcon(QIcon(os.path.abspath("/usr/share/ServOSWelcome/images/icon.png")))
         
+        try:
+            current_user = os.environ.get("USER")
+            if current_user == "servos":
+                self.close()
+        except Exception as e:
+            print(e)
+            
         # SOUND
         self.media_player = QMediaPlayer()
         sound_path = os.path.abspath("/usr/share/ServOSWelcome/sounds/title.mp3")
@@ -690,3 +697,4 @@ if __name__ == '__main__':
     window = MainWindow()
     window.show()
     sys.exit(app.exec_())
+
